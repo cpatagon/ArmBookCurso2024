@@ -1,5 +1,5 @@
 #include "mbed.h"
-
+//prueba
 int main()
 {
     DigitalIn B1_USER(BUTTON1);
